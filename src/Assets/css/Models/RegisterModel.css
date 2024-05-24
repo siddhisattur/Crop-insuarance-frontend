@@ -1,0 +1,23 @@
+body {
+    /* Set the background image URL */
+    background-image: url('../../images/leaf-bg-image.jpg');
+  
+    /* Set background size to cover the entire viewport */
+    background-size: cover;
+  
+    /* Set background repeat to no repeat */
+    background-repeat: no-repeat;
+  
+    /* Center the background image */
+    background-position: center center;
+  
+    /* Set a fixed background attachment */
+    background-attachment: fixed;
+  
+    /* Optionally, you can add other styles to the body */
+    margin: 0;
+    padding: 0;
+    font-family: 'Your preferred font', sans-serif;
+    /* ... add more styles as needed */
+  }
+  
